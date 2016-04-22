@@ -1,0 +1,16 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+  specs:
+    FireSharp (2.0.3)
+      Microsoft.Bcl.Async (>= 1.0.168)
+      Microsoft.Net.Http (>= 2.2.28)
+      Newtonsoft.Json (>= 6.0.4)
+    Microsoft.Bcl (1.1.10)
+      Microsoft.Bcl.Build (>= 1.0.14)
+    Microsoft.Bcl.Async (1.0.168)
+      Microsoft.Bcl (>= 1.1.8)
+    Microsoft.Bcl.Build (1.0.21) - import_targets: false
+    Microsoft.Net.Http (2.2.29)
+      Microsoft.Bcl (>= 1.1.10)
+      Microsoft.Bcl.Build (>= 1.0.14)
+    Newtonsoft.Json (8.0.3)

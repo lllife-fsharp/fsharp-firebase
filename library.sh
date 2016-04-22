@@ -1,0 +1,1 @@
+paket add nuget FireSharp project fsharp-firebase.fsproj
