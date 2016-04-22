@@ -1,12 +1,12 @@
-##Try FireSharp
+## Try FireSharp
 
-## Create project
+### Create project
 
 ```
 yo fsharp
 ```
 
-## Edit fsharp-firebase.fsproj
+### Edit fsharp-firebase.fsproj
 
 - Include following references
 
@@ -16,7 +16,7 @@ yo fsharp
 <Reference Include="System.Net.Http" />
 ```
 
-## Eidt App.config
+### Eidt App.config
 
 - Add assembly redirect
 
@@ -31,7 +31,7 @@ yo fsharp
 </runtime>
 ```
 
-## Install FireSharp
+### Install FireSharp
 
 ```bash
 paket add nuget FireSharp project fsharp-firebase.fsproj
