@@ -6,7 +6,7 @@
 yo fsharp
 ```
 
-### Edit fsharp-firebase.fsproj
+### Edit - fsharp-firebase.fsproj
 
 - Include following references
 
@@ -16,7 +16,7 @@ yo fsharp
 <Reference Include="System.Net.Http" />
 ```
 
-### Eidt App.config
+### Edit - app.config
 
 - Add assembly redirect
 
